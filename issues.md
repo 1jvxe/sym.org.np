@@ -1,1 +1,5 @@
-
+- [ ] Some images are missing or not showing correctly
+- [ ]**See Photos** button  should go to gallery section not top of the page
+- [ ] Contact links are not interactive 
+- [ ] the text size looks inconsistent and not very readable, fix them as H1 ( Title ), H2( Article ), H3 ( content )
+- [ ] event cards do not open a proper page when clicked make it interactive      ( optional ) 
